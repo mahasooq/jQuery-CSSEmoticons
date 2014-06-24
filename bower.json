@@ -1,0 +1,23 @@
+{
+  "name": "jQuery-CSSEmoticons",
+  "version": "0.2.9",
+  "homepage": "https://github.com/mahasooq/jQuery-CSSEmoticons",
+  "authors": [
+    "Steve Schwartz (JangoSteve)",
+    "mahasooq <mahasooq.me@gmail.com>"
+  ],
+  "description": "jQuery plugin to style emoticons with pure CSS3 properties (no images) by Steve Schwartz (JangoSteve) .",
+  "main": "js/jquery.cssemoticons.js",
+  "keywords": [
+    "css3",
+    "emoticons"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
